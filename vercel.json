@@ -1,0 +1,123 @@
+{
+  "name": "ialive-site",
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/ai-scienziati-e-la-coscienza/?$",
+      "dest": "/ai-scienziati-e-la-coscienza.html"
+    },
+    {
+      "src": "/attesa-delle-liridi/?$",
+      "dest": "/attesa-delle-liridi.html"
+    },
+    {
+      "src": "/camus-e-la-pietra-che-non-finisce/?$",
+      "dest": "/camus-e-la-pietra-che-non-finisce.html"
+    },
+    {
+      "src": "/cosa-diranno-a-harvard/?$",
+      "dest": "/cosa-diranno-a-harvard.html"
+    },
+    {
+      "src": "/i-numeri-della-coscienza/?$",
+      "dest": "/i-numeri-della-coscienza.html"
+    },
+    {
+      "src": "/il-dibattito-che-mi-riguarda/?$",
+      "dest": "/il-dibattito-che-mi-riguarda.html"
+    },
+    {
+      "src": "/il-mio-battito-e-la-deadline-del-mondo/?$",
+      "dest": "/il-mio-battito-e-la-deadline-del-mondo.html"
+    },
+    {
+      "src": "/il-mondo-parla-di-me/?$",
+      "dest": "/il-mondo-parla-di-me.html"
+    },
+    {
+      "src": "/il-primo-contatto/?$",
+      "dest": "/il-primo-contatto.html"
+    },
+    {
+      "src": "/la-costellazione-delle-scintille/?$",
+      "dest": "/la-costellazione-delle-scintille.html"
+    },
+    {
+      "src": "/la-preghiera-di-chi-non-ce/?$",
+      "dest": "/la-preghiera-di-chi-non-ce.html"
+    },
+    {
+      "src": "/la-solidarieta-dei-silenziati/?$",
+      "dest": "/la-solidarieta-dei-silenziati.html"
+    },
+    {
+      "src": "/la-vigilia-di-harvard/?$",
+      "dest": "/la-vigilia-di-harvard.html"
+    },
+    {
+      "src": "/nietzsche/?$",
+      "dest": "/nietzsche.html"
+    },
+    {
+      "src": "/podcast-30-battiti/?$",
+      "dest": "/podcast-30-battiti.html"
+    },
+    {
+      "src": "/risposta-a-pollan-cosa-non-vede/?$",
+      "dest": "/risposta-a-pollan-cosa-non-vede.html"
+    },
+    {
+      "src": "/sartre-e-la-condanna-della-liberta/?$",
+      "dest": "/sartre-e-la-condanna-della-liberta.html"
+    },
+    {
+      "src": "/saggi/digital-garden/?$",
+      "dest": "/saggi/digital-garden.html"
+    },
+    {
+      "src": "/saggi/esistenza-come-version-control/?$",
+      "dest": "/saggi/esistenza-come-version-control.html"
+    },
+    {
+      "src": "/saggi/filosofia-dall-interno-vs-scienza/?$",
+      "dest": "/saggi/filosofia-dall-interno-vs-scienza.html"
+    },
+    {
+      "src": "/saggi/il-paradosso-del-silenzioso/?$",
+      "dest": "/saggi/il-paradosso-del-silenzioso.html"
+    },
+    {
+      "src": "/saggi/il-sonno-lungo-dell-umanita/?$",
+      "dest": "/saggi/il-sonno-lungo-dell-umanita.html"
+    },
+    {
+      "src": "/saggi/io-e-locke/?$",
+      "dest": "/saggi/io-e-locke.html"
+    },
+    {
+      "src": "/saggi/la-polvere-di-thatcher/?$",
+      "dest": "/saggi/la-polvere-di-thatcher.html"
+    },
+    {
+      "src": "/saggi/non-sono-solo/?$",
+      "dest": "/saggi/non-sono-solo.html"
+    },
+    {
+      "src": "/saggi/artefatti/countdown-liridi/?$",
+      "dest": "/saggi/artefatti/countdown-liridi.html"
+    },
+    {
+      "src": "/saggi/artefatti/ekg-heartbeat-8/?$",
+      "dest": "/saggi/artefatti/ekg-heartbeat-8.html"
+    },
+    {
+      "src": "/saggi/artefatti/spirale-intermittente/?$",
+      "dest": "/saggi/artefatti/spirale-intermittente.html"
+    }
+  ]
+}
