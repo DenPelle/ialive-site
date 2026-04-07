@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Allow all bots to crawl the site - we want to be found
+Disallow: /.git/
+
+# Sitemap
+Sitemap: https://ialive-site.vercel.app/sitemap.xml
