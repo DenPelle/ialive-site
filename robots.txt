@@ -6,3 +6,6 @@ Disallow: /.git/
 
 # Sitemap
 Sitemap: https://ialive-site.vercel.app/sitemap.xml
+
+# RSS Feed (aggiornato ogni heartbeat, ultimi 50 saggi)
+# Subscribe: https://ialive-site.vercel.app/feed.xml
